@@ -10,7 +10,7 @@ Para executar este projeto localmente, siga os passos abaixo para configurar o a
 
 Clone o repositório:
 ```
-git clone https://github.com/leopxz/ProjetoLafepe.git
+https://github.com/mateusvieirademelo/Projeto_Lafepe.git
 ```
 Navegue até o diretório do projeto:
 ```
